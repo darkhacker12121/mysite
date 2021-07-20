@@ -113,7 +113,7 @@
 
 
 ## Using Netlify deploy
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/vimalverma558/Master-Portfolio)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/darkhacker12121/mysite)
 - Click on Deploy button ☝️
 - <details>
   <summary>Click on connect to Github</summary>
